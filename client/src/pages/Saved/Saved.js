@@ -67,7 +67,4 @@ class Saved extends Component {
             </div>
         )
     }
-
-
-
 }
