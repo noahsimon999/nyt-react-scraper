@@ -10,7 +10,7 @@ class Nav extends Component {
 
     render() {
         <div>
-            <nav>
+            <nav className="blue darken-4">
                 <div className="nav-wrapper">
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
                         <li><a href="#" className="brand-logo center customNav">New York Times Scrubber</a></li>
