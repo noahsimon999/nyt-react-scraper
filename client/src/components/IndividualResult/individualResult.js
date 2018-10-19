@@ -2,7 +2,7 @@ import React, {Component} from "react";
 import API from '../../utils/API';
 import './individual.css';
 
-export default class individualResult extends Component {
+export default class IndividualResult extends Component {
 
     constructor(){
         super();
